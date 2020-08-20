@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I’m currently working on wrapping C, C++, and Fortran software into Python (think: NumPy) for modernizing them and using them with Python's rich library ecosystem. For instance, I have wrapped a hurricane simulation HPC software, ADCIRC (Fortran), and a flood simulation software, GSSHA (C++), into Python to couple them together for simulation of compound floods from hurricanes, such as that observed during Hurricane Harvey (2017).
+- I’m looking to collaborate on improving `htopy`, a software I created for automating generation of Python/ctypes wrappers of C and C++ software.
+- Ask me about how to optimize your Python software using C, C++, and Fortran functions with it. Also ask me about the Water Coupler.
+- I would love to hear from you by e-mail at gajanan@utexas.edu
