@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I would love to hear from you by e-mail at gajanan@utexas.edu.
-- My plain-text CV is available in my GitHub repository [here](https://github.com/gajanan-choudhary/CV-Resume-text), and my PDF resume is available [here](https://users.oden.utexas.edu/~gajanan/assets/files/Gajanan_Choudhary_Resume.pdf?pdf=Resume).
-- Ask me how to optimize your Python software by wrapping C, C++, and Fortran functions into Python. Also ask me about the htopy and Water Coupler.
+- My plain-text CV is available in my GitHub repository [here](https://github.com/gajanan-choudhary/CV-Resume), and my PDF resume is available [here](https://users.oden.utexas.edu/~gajanan/assets/files/Gajanan_Choudhary_Resume.pdf?pdf=Resume).
+- Ask me how to optimize your Python software by wrapping C, C++, and Fortran functions into Python. Also ask me about [htopy](http://github.com/gajanan-choudhary/htopy) and [Water Coupler](http://github.com/gajanan-choudhary/water-coupler).
 - I’m currently working on wrapping C, C++, and Fortran software into Python (think: NumPy) for modernizing them and using them with Python's rich library ecosystem. For instance, I wrapped a hurricane simulation HPC software, [ADCIRC](http://adcirc.org/) (Fortran), and a flood simulation software, [GSSHA](https://en.wikipedia.org/wiki/GSSHA) (C++), into Python to couple them together for simulation of compound floods from hurricanes, such as that observed during Hurricane Harvey (2017).
 - Fun fact: Somewhere in my genealogy (of PhD advisors) lie some of the greatest mathematicians that have ever lived -- Lagrange, Laplace, and Euler, to name a few. You can take a look at my math genealogy through the [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=261723).
